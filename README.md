@@ -10,7 +10,7 @@ This project is a simple interactive web page that allows users to change the ba
 - **Responsive Design**: The layout is centered and visually appealing on most devices.
 
 ## Project Structure
-
+.
 ├── index.html      # Main HTML file
 ├── style           # Inline CSS for styling the webpage
 └── script          # Inline JavaScript for interactive functionality
