@@ -9,12 +9,6 @@ This project is a simple interactive web page that allows users to change the ba
 - **Interactive UI**: Colors change instantly upon clicking a box.
 - **Responsive Design**: The layout is centered and visually appealing on most devices.
 
-## Project Structure
-.
-├── index.html      # Main HTML file
-├── style           # Inline CSS for styling the webpage
-└── script          # Inline JavaScript for interactive functionality
-
 ## How It Works
 
 1. The webpage displays five clickable boxes with different colors.
