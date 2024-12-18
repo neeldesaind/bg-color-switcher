@@ -34,7 +34,7 @@ This project is a simple interactive web page that allows users to change the ba
 3. Click on the color boxes to change the background color.
 
 ## Demo
-
+https://github.com/user-attachments/assets/db910bab-928a-412d-a33c-ea1584af5edc
 
 ## Future Enhancements
 
